@@ -52,3 +52,5 @@ use(distance):이동거리
 <img src="image/mean1.png" width="500">
 
 ### ['energy'컬럼에대해 각구간별 포함개수를 고려하지않고 총 구간에 대하여 10개 구간으로 나누고 각 구간의 개수를 출력]
+
+<img src="image/cut.png" width="500">
