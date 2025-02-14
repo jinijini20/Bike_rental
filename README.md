@@ -32,3 +32,7 @@ use(distance):이동거리
 <img src="image/info1.png" width="500">
 
 <img src="image/head.png" width="500">
+
+### ['date'컬럼을 datetime으로 변환하기]
+
+<img src="image/datetime.png" width="300">
