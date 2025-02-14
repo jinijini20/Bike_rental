@@ -11,5 +11,13 @@
 ## 데이터/파일
 
 
+date:대여 일자
+
+No:대여소 번호
+
+energy:운동량
+
+use(distance):이동거리
+
 ### 데이터불러오기
 <img src="image/library.png" width="500">
