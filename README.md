@@ -29,6 +29,6 @@ use(distance):이동거리
 
 <img src="image/shape.png" width="300">
 
-<img src="image/info.png" width="500">
+<img src="image/info1.png" width="500">
 
 <img src="image/head.png" width="500">
