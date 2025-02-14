@@ -27,7 +27,7 @@ use(distance):이동거리
 
 <img src="image/dtypes.png" width="300">
 
-<img src="image/shape.png" width="300">
+<img src="image/shape1.png" width="300">
 
 <img src="image/info1.png" width="500">
 
