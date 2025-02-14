@@ -36,3 +36,7 @@ use(distance):이동거리
 ### ['date'컬럼을 datetime으로 변환하기]
 
 <img src="image/datetime.png" width="400">
+
+### ['energy'컬럼을 object형식으로 바꾸기 
+###  index 1,2,3,4,5,6삭제하기
+###  'No'컬럼중 100보다 작은수치를 삭제하기]
