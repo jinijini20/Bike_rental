@@ -7,3 +7,12 @@
 데이터셋의 컬럼 중 일부 자료형을 변형해보고 일부 컬럼에 대하여 구간으로 나누고 데이터를 확인합니다.
 
 결측치를 채우고 피벗테이블을 만들어 데이터를 분석하고 시각화를 합니다.
+
+import matplotlib as mpl
+import matplotlib.pyplot as plt
+import matplotlib.font_manager as fm
+import pandas as pd
+import datetime as dt
+
+plt.rcParams['font.family']='MalgunGothic'
+df=pd.read_csv('data/cycle.csv',encoding='cp949')
