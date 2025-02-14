@@ -21,7 +21,7 @@ use(distance):이동거리
 
 ### [데이터 불러오기/확인]
 <img src="image/library.png" width="500">
-<img src="image/read.png" width="500" height="400">
+<img src="image/read.png" width="400" height="400">
 
 ### [해당파일을 dtypes,shape,info,head 확인]
 
