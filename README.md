@@ -35,4 +35,4 @@ use(distance):이동거리
 
 ### ['date'컬럼을 datetime으로 변환하기]
 
-<img src="image/datetime.png" width="300">
+<img src="image/datetime.png" width="400">
