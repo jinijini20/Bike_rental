@@ -49,4 +49,4 @@ use(distance):이동거리
 ###  'energy'의 자료형을 수치데이터로 변경해보기(pd.to_numeric 사용,errors는 coerce로 처리)
 ###   결측치 'energy'평균값으로 채우기]
 
-<img src="image/mean.png" width="500">
+<img src="image/mean1.png" width="500">
