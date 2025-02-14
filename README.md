@@ -56,3 +56,5 @@ use(distance):이동거리
 <img src="image/cut.png" width="500">
 
 ### ['energy'컬럼에대해 각 구간별 포함 데이터의 개수를 유사하게 설정하고 10개 구간으로 나누고 각 구간의 개수를 구하기]
+
+<img src="image/qcut.png" width="500">
