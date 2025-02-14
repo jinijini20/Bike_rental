@@ -19,5 +19,5 @@ energy:운동량
 
 use(distance):이동거리
 
-### 데이터불러오기
+### 데이터 불러오기/확인
 <img src="image/library.png" width="500">
