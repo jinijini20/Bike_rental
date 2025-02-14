@@ -43,4 +43,4 @@ use(distance):이동거리
 
 <img src="image/object.png" width="500">
 
-<img src="image/drop.png" width="500">
+<img src="image/drop.png" width="500" height="300">
