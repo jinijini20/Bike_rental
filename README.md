@@ -25,9 +25,9 @@ use(distance):이동거리
 
 ### 해당파일을 dtypes,shape,info,head 확인
 
-<img src="image/dtypes.png" width="500">
+<img src="image/dtypes.png" width="300">
 
-<img src="image/shape.png" width="500">
+<img src="image/shape.png" width="300">
 
 <img src="image/info.png" width="500">
 
