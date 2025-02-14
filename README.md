@@ -12,4 +12,4 @@
 
 
 ### 데이터불러오기
-<img src="image/library.png" width="640">
+<img src="image/library.png" width="500">
