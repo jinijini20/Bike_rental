@@ -68,3 +68,7 @@ use(distance):이동거리
 <img src="image/group.png" width="500">
 
 <img src="image/df_count.png" width="500">
+
+<img src="image/plot.png" width="500">
+
+<img src="image/graph.png" width="500">
