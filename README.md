@@ -62,3 +62,9 @@ use(distance):이동거리
 ### ['No'의자료형을 category형으로 변경하고 No의사용횟수(count)를이용하여데이터를그룹핑해보자]
 
 <img src="image/no.png" width="500">
+
+### ['No'별 횟수에 대한 그룹핑 결과를 확인하고 그래프 나타내기]
+
+<img src="image/group.png" width="500">
+
+<img src="image/df_count.png" width="500">
