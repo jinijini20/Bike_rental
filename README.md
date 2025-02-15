@@ -87,4 +87,4 @@ use(distance):이동거리
 
 <img src="image/graph2.png" width="500">
 
-날짜별 운동량의 따른 use(distance)를보면 1월 21일에 운동을 많이했고 
+날짜별 운동량의 따른 use(distance)를보면 1월 21일부터 use(distance)가 감소하는현상을보이다가 1월 23일부터 증가하하는 추세를 보이고있다
