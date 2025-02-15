@@ -75,8 +75,10 @@ use(distance):이동거리
 
 "No" 대여소 번호별 개수를 나타낸그래프입니다. 이그래프에서는 100이상에 한 대여소 번호의 개수가 가장 높은것으로 나왔습니다.
 
-### 날짜별 use(distance)의 평균으로 그룹핑해보자
+### 날짜별 use(distance)로 그룹핑해 'energy'컬럼의 평균을 구해보자
 
 <img src="image/group_mean.png" width="500">
 
+### 날짜별 운동량(energy)의합을 피봇테이블로나타내봅시다.위의결과에대하여그래프로나타내봅시다. 
 
+<img src="image/pivot.png" width="500">
