@@ -79,10 +79,12 @@ use(distance):이동거리
 
 <img src="image/group_mean.png" width="500">
 
-### 날짜별 운동량(energy)에 따라 사용된 use(distance)의 표를 피벗테이블로 나타내고 그래프로 나타내보자 
+### 날짜별 운동량(energy)에 따른 use(distance)의 표를 피벗테이블로 나타내고 그래프로 나타내보자 
 
 <img src="image/pivot.png" width="500">
 
 <img src="image/plot2.png" width="500">
 
 <img src="image/graph2.png" width="500">
+
+날짜별 운동량의 따른 use(distance)를보면 1월 21일에 운동을 많이했고 
