@@ -79,6 +79,6 @@ use(distance):이동거리
 
 <img src="image/group_mean.png" width="500">
 
-### 날짜별 운동량(energy)의합을 피봇테이블로나타내봅시다.위의결과에대하여그래프로나타내봅시다. 
+### 날짜별 운동량(energy)에 따라 사용된 use(distance)의 표를 피벗테이블로 나타내고 그래프로 나타내보자자 
 
 <img src="image/pivot.png" width="500">
