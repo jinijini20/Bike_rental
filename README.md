@@ -74,3 +74,9 @@ use(distance):이동거리
 <img src="image/graph.png" width="500">
 
 "No" 대여소 번호별 개수를 나타낸그래프입니다. 이그래프에서는 100이상에 한 대여소 번호의 개수가 가장 높은것으로 나왔습니다.
+
+### 날짜별 use(distance)의 평균으로 그룹핑해보자
+
+<img src="image/group_mean.png" width="500">
+
+
